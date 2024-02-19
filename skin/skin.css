@@ -1,0 +1,24 @@
+
+:root{
+	--fontSize: 0.9em;
+	--fontStyle: "sans-serif";
+  --rootBG: #f0eeeb;
+  --maxWidth: 1024px;
+  --contentBG: #fff;
+  --contentFG: black;
+  --headerBG: #74515f;
+  --headerFG: #fff;
+  --headerOutBG: #967381;
+  --headerOutFG: #fff;
+  --headerOver: #fae90c;
+  --titleColor:#74515f;
+  --borderColor: #e0dcd8;
+  --borderWidth:8px;
+	--accentColor:#74515f;
+	--accentColorLight:#74515fb8;
+  --emphasisBG: #fae90c;
+  --extraBG: transparent;
+  --extraBorderColor: #231F20;
+  --extraBorderWidth: 2px;
+  --extraRadius: 0em;
+}
